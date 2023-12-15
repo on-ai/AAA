@@ -1,4 +1,4 @@
-# project-AAA
+# project-AAA NorthEast
 ## Overview
 ### Goal
 The goal of this project is to provide market segmentation of AAA Northeast members that would help increase the penetration of AAA's financial products.
