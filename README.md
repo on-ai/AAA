@@ -4,7 +4,7 @@
 The goal of this project is to provide market segmentation of AAA Northeast members that would help increase the penetration of AAA's financial products.
 
 ### Methodology
-- **Predictive Analysis**: Classification model helps predict the probability of purchsing each product. The predicted probabilities are latter used for clustering. 
+- **Predictive Analysis**: Classification model helps predict the probability of purchasing each product. The predicted probabilities are latter used for clustering. 
 
 - **Clustering**: Clustering helps explore market segmentation and opportunities.
 
