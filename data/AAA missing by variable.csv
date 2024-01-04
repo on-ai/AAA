@@ -1,0 +1,114 @@
+,0
+Unnamed: 0,0
+Individual Key,0
+Household Key,0
+Member Flag,0
+City,0
+State - Grouped,0
+ZIP5,0
+ZIP9,0
+FSV CMSI Flag,0
+FSV Credit Card Flag,0
+FSV Deposit Program Flag,0
+FSV Home Equity Flag,0
+FSV ID Theft Flag,0
+FSV Mortgage Flag,0
+INS Client Flag,0
+TRV Globalware Flag,0
+Number of Children,9334
+Responded to Catalog,20484
+Race,9334
+Length Of Residence,9334
+Mail Responder,9334
+Home Owner,9715
+Income,9401
+Date Of Birth,11153
+Children,9334
+Education,9334
+Dwelling Type,5453
+Credit Ranges,9334
+Language,9334
+Gender,12561
+Active Expiration Date,1
+Address Change Date,9955
+Bad Address Flag,1
+Billing Code Description,1
+Birth Date MMDDYYYY,3250
+Branch Name,1
+Cancel Date,13167
+Cancel Reason,13167
+County,1
+Do Not Direct Mail Solicit,1
+Email Available,1
+Email Status,10423
+ERS ENT Count Year 1,4669
+ERS ENT Count Year 2,4669
+ERS ENT Count Year 3,4669
+ERS Member Cost Year 1,4669
+ERS Member Cost Year 2,4669
+ERS Member Cost Year 3,4669
+Right_Gender,15961
+Right_Individual Key,1
+Join AAA Date,1
+Join Club Date,1
+Member Key,1
+Member Map Location,36
+Member Number Associate ID,1
+Member Phone Type,9027
+Member Status,1
+Member Tenure Years,1
+Member Type,1
+Membership ID,1
+Months from Join to Cancel,13167
+Opt-Out - Publication,1
+Reason Joined,20956
+Reinstate Date,20849
+Renew Method,1
+ZIP,1
+Mosaic Household,5463
+Mosaic Global Household,5463
+kcl_B_IND_MosaicsGrouping,5463
+New Mover Flag,1
+Occupation Code,12562
+Occupation Group,12562
+Right_Dwelling Type,20520
+Move Distance,20703
+Occupant Type,20612
+Breakdown Map Location,7602
+Breakdown City,7347
+Breakdown State,7347
+Basic Cost,7400
+Calculated Tow Miles,7483
+Call Canceled,7347
+Call Killed,7347
+Call Status Recv Date,7394
+Cash Call,7347
+Clearing Code Last Description,7391
+Dispatch Code1 Description,7348
+Dispatch Code2Description,21344
+DTL Prob1 Code Description,7348
+Fleet Indicator,7491
+Is Duplicate,7347
+Is NSR,7347
+Member Match Flag,7347
+Member Number and Associate ID,7347
+Motorcycle Indicator,8163
+Plus Cost,7400
+Plus Indicator Description,7347
+Premier Cost,7433
+Prob1 Code Description,7347
+Prob2 Code Description,21336
+SC Call Club Code Description,7347
+SC Date,7347
+Rec ID,7347
+SC STS RSN Code Description,7391
+SC Vehicle Manufacturer Name,7359
+SC Vehicle Model Name,7367
+SVC Facility Name,7491
+SVC Facility Type,7975
+Total Cost,7400
+Tow Destination Latitude,9531
+Tow Destination Longitude,9531
+Tow Destination Name,17652
+Was Duplicated,7347
+Was Towed To AAR Referral,7347
